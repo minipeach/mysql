@@ -216,4 +216,5 @@ node id found for mysqld
 一般管理节点的 配置文件要预留3个以上的空节点,因为备份时需要连接一个节点,如下:
 
 [mysqld]
+
 Id=6
